@@ -1,4 +1,4 @@
-![logo](https://github.com/henrykironde/Logos/blob/master/resource/WeaverLogo.png?raw=true)
+![logo](https://github.com/henrykironde/Logos/blob/master/resource/Weaver_logo.png?raw=true)
 
 
 [![Build Status](https://travis-ci.org/weecology/retriever.svg?branch=master)](https://travis-ci.org/weecology/retriever)
