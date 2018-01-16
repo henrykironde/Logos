@@ -1,5 +1,4 @@
-![logo](https://github.com/henrykironde/Logos/blob/master/resource/Weaver_logo.png?raw=true)
-
+<img src="https://github.com/henrykironde/Logos/blob/master/resource/Weaver_logo.png?raw=true" alt="logo" width="250">
 
 [![Build Status](https://travis-ci.org/weecology/retriever.svg?branch=master)](https://travis-ci.org/weecology/retriever)
 [![Build Status (windows)](https://ci.appveyor.com/api/projects/status/qetgo4jxa5769qtb/branch/master?svg=true)](https://ci.appveyor.com/project/ethanwhite/retriever/branch/master)
@@ -14,4 +13,4 @@
 
 # The Weaver Project
 
-https://raw.githubusercontent.com/henrykironde/Logos/master/resource/WeaverLogo_1.png
+This is the weaver
